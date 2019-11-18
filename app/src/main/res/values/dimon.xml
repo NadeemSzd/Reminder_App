@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="fab_margin">20dp</dimen>
+    <dimen name="corner_radius">3dp</dimen>
+    <dimen name="custom_stroke_width">0.5dp</dimen>
+
+    <!-- Add alarm -->
+    <dimen name="AddAlarm_padding">25dp</dimen>
+    <dimen name="title_marginBottom">40dp</dimen>
+    <dimen name="titleMarginTop">40dp</dimen>
+    <dimen name="editTextPadding">15dp</dimen>
+    <dimen name="Linear_marginTop">30dp</dimen>
+    <dimen name="marginBottom">5dp</dimen>
+    <dimen name="marginRight">5dp</dimen>
+    <dimen name="addAlarm_marginVertical">50dp</dimen>
+
+    <!-- reminder layout -->
+    <dimen name="HorizontalMargin">5dp</dimen>
+    <dimen name="CardCornerRadius">5dp</dimen>
+    <dimen name="elevation">8dp</dimen>
+    <dimen name="marginTop">5dp</dimen>
+
+    <!-- Settings -->
+    <dimen name="layoutMarginTop">200dp</dimen>
+
+
+
+</resources>

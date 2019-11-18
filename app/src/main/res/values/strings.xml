@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">Task_Reminder_App</string>
+
+    <!-- Home Screen -->
+    <string name="Title_main">Remind Me</string>
+    <string name="settings">Settings</string>
+    <string name="addAlarm_menu">Add Reminder</string>
+    <string name="AddAlarmBtn">Add Reminder</string>
+
+    <!-- Add Reminder Screen -->
+    <string name="title">Reminder App</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+
+
+    <!-- Update Reminder -->
+    <string name="updateAlarm">Save Reminder</string>
+
+
+    <!-- settings -->
+    <string name="vibrate">Vibrate</string>
+
+</resources>
